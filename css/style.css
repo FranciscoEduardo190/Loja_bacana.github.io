@@ -68,6 +68,9 @@ h3 {
     padding-left: 5px;
 
 }
+.card > a{ 
+    text-decoration: none;
+}
 .card p{
     margin-bottom: 10px;
 }
@@ -86,10 +89,11 @@ h3 {
     color: #fff;
     background-color: #031E33;
     border-radius: 5px;
-    transition: .5s ;
+    transition: .2s ;
 }
 .btn:hover {
  background-color: #03102c;
+ border: 2px solid #03102c;
 }
 
 
